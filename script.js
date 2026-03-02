@@ -1,3 +1,5 @@
+const text = prompt("Enter text:");
+
 function firstChar(text) {
   // your code here
 	for (let i = 0; i < text.length; i++) {
